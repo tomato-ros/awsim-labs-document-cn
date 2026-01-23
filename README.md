@@ -21,6 +21,13 @@ AWSIM Labs 是 Autoware Foundation 基于 Tier IV 原版 AWSIM 打造的分支�
 
 ## 关注作者
 
+### 微信号
+
+- 微信号：**smartros**
+- 二维码：
+
+![img](image/smartros.jpg "添加《番茄ROS机器人》微信号好友")
+
 ### 公众号
 
 ![img](image/tomato-ros.png "关注公众号《番茄ROS机器人》")
